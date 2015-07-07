@@ -3,7 +3,7 @@ package pool_test
 import (
 	"fmt"
 
-	"gopkgs.com/pool.v1"
+	"github.com/rainycape/pool"
 )
 
 func ExamplePool() {
